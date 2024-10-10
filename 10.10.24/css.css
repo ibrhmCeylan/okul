@@ -1,0 +1,57 @@
+body{
+  background-color: rgb(14, 100, 96);
+  margin: 10px;
+  text-align: center;
+  
+}
+
+img{
+  width: 10vw;
+}
+
+h1{
+  color: white;
+  font-size: 40px;
+}
+.erk{
+  
+  border-radius: 40px;
+  margin: 3px;
+  color: white;
+  font-size: 13px;
+}
+
+#k2{
+  background-color: rgb(46, 46, 46);
+  border: 5px solid black;
+  border-radius: 40px;
+  margin: 3px;
+  width: 12%;
+  color: white;
+  font-size: 13px;
+
+}
+#k2:hover{
+  background-color: aqua;
+  color: rgb(27, 27, 27);
+}
+
+
+
+
+#k3{
+  background-color: rgb(46, 46, 46);
+  border: 5px solid black;
+  border-radius: 40px;
+  margin: 3px;
+  width: 12%;
+  
+  color: white;
+  font-size: 13px;
+
+}
+#k3:hover{
+  background-color: #ff1aff;
+  
+  color: rgb(27, 27, 27);
+}
